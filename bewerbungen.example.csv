@@ -1,0 +1,3 @@
+firma;stelle;datum;status;frist;naechster_schritt;ansprechpartner;link;unterlagen
+Beispiel GmbH;Werkstudent Softwareentwicklung;2026-10-01;Abgeschickt;2026-10-31;Nachfassen am 15.10.;Frau Muster;https://example.com/job;Bewerbung_Beispiel.pdf
+Muster AG;Duales Studium Informatik;;Unterlagen fertig;2026-11-15;Online-Portal ausfüllen;;https://example.com/duales-studium;Bewerbung_Muster.pdf
