@@ -12,6 +12,12 @@ Ein Claude-Skill für persönliche, ehrliche Bewerbungen auf Deutsch: Anschreibe
 ## Installation
 Ordner nach `~/.claude/skills/kreative-bewerbung` kopieren (oder in Claude als Skill hinzufügen), dann `profil.example.md` zu `profil.md` kopieren und ausfüllen.
 
+## Anschreiben prüfen
+```bash
+python3 scripts/pruefen.py brief.txt
+```
+Meldet Floskeln, Platzhalter, Länge und Formulierungen, die einen Beleg brauchen (z. B. „viel Erfahrung“, „flexibel einsetzbar“).
+
 ## Übersicht anzeigen
 ```bash
 python3 scripts/uebersicht.py bewerbungen.csv

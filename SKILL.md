@@ -15,7 +15,7 @@ Lies zuerst `profil.md` im Skill-Ordner (Vorlage: `profil.example.md`): Kontaktd
 2. **Interview (2–3 Fragen):** Frag nach Details, die nicht im Lebenslauf stehen: Was hat dich zum Thema gebracht? Was war ein nerviger oder witziger Moment? Was würdest du dort gern bauen/verbessern? Daraus entstehen die persönlichen Stellen.
 3. **Aufhänger:** Ein Punkt, der nur zu dieser Firma und dieser Person passt.
 4. **Entwurf:** Bei wichtigen Bewerbungen zwei Varianten (mutiger / ruhiger).
-5. **Prüfen** (Checkliste unten), PDF bauen, Seite ansehen.
+5. **Prüfen:** `python3 scripts/pruefen.py brief.txt` (Floskeln, Platzhalter, Länge, unbelegte Formulierungen), dann die Checkliste unten, PDF bauen, Seite ansehen.
 6. **Übersicht aktualisieren** (siehe unten).
 7. **Ehrliche Hinweise** am Ende: wo es formal nicht passt, was ungeklärt ist (Fristen, offene Stelle, Adresse).
 
